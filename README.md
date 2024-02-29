@@ -2,7 +2,7 @@
 ## Author : Cognitive Class AI
 ---
 Mentee assigment from IBM Advance @ Infinite Learning
-Course Completition of Build A Chatbot Using LLM from CognitiveClass.ai
+Course Completition of Sentiment Analysis using Caikit and Hugging Face from CognitiveClass.ai
 ---
 
 ## Mentee info 
